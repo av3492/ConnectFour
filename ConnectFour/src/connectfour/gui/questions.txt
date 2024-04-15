@@ -1,6 +1,6 @@
-CSCI-605 Homework 7: Connect Four
 
-Answer each of the following questions regarding the design of this application.
+
+Regarding the design of this application : 
 
 1. In terms of MVC, which part does ConnectFourBoard represent?
    Model
